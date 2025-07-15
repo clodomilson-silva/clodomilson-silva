@@ -58,7 +58,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/clodomilson-silva)
 - 🌐 [Portfólio (em breve)](#)
-- 📧 clodomilson@email.com *(exemplo – edite se desejar)*
+- 📧 clodomilsonanjos.eng@outlook.com
 
 ---
 
