@@ -59,7 +59,7 @@
 ### 🐍 Snake Contribution Chart
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clodomilson-silva/clodomilson-silva/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/clodomilson-silva/clodomilson-silva/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
