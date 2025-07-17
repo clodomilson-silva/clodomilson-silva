@@ -1,69 +1,79 @@
-<h1 align="center">👋 Olá, eu sou Clodomilson Silva</h1>
-
-<h3 align="center">Engenheiro de Software | Full Stack & Mobile Developer</h3>
+<h1 align="center">👋 Olá, eu sou o Clodomilson Silva</h1>
+<h3 align="center">💻 Engenheiro de Software | Full Stack & Mobile Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/clodomilson-silva" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:clodomilsonanjos.eng@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-🎯 **Sobre mim**
+### 🎯 Sobre mim
 
-- 👨‍💻 Engenheiro de Software atuando no **Senac Maranhão**
-- 🎓 Formação em Engenharia de Software pela **Faculdade Alphaville**
-- 💼 Experiência com desenvolvimento web e mobile usando **React**, **Next.js**, **Flutter**, **Django** e **Node.js**
-- 🚀 Amante da tecnologia e educação, desenvolvo soluções com foco em desempenho, escalabilidade e boas práticas
-- 🌱 Atualmente estudando integração de IA em sistemas com foco em CRM e atendimento inteligente
-
----
-
-🔧 **Tecnologias e Ferramentas**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+- 👨‍💻 Engenheiro de Software no **Senac Maranhão**
+- 🎓 Graduado em Engenharia de Software pela **Faculdade Alphaville**
+- 🧠 Especialista em sistemas escaláveis com foco em performance e boas práticas
+- 🚀 Stack: **React**, **Next.js**, **Flutter**, **Django**, **Node.js**
+- 🤖 Estudando IA aplicada a CRM e Atendimento Inteligente
 
 ---
 
-📊 **Estatísticas do GitHub**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=clodomilson-silva&show_icons=true&theme=dark&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clodomilson-silva&layout=compact&theme=dark" height="165">
-</p>
-
----
-
-🏆 **Troféus GitHub**
+### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clodomilson-silva&theme=onedark&margin-w=10&no-frame=true&column=4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
 ---
 
-📫 **Vamos conversar?**
+### 📊 Estatísticas do GitHub
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/clodomilson-silva)
-- 🌐 [Portfólio (em breve)](#)
-- 📧 clodomilsonanjos.eng@outlook.com
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=clodomilson-silva&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clodomilson-silva&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
-☕ **Apoie meu trabalho**
+### 🏆 Troféus do GitHub
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=clodomilson-silva&theme=algolia&no-frame=true&column=4"/>
+</p>
+
+---
+
+### 🐍 Snake Contribution Chart
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clodomilson-silva/clodomilson-silva/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/clodomilson-silva)
+- 🌍 Portfólio: *em breve* ⏳
+- 📧 Email: clodomilsonanjos.eng@outlook.com
+
+---
+
+### ☕ Apoie meu trabalho
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
