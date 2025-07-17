@@ -2,7 +2,7 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todo dia à meia-noite UTC
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -22,8 +22,8 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Debug git remote
-        run: git remote -v
+      - name: Debug token (opcional)
+        run: echo "Token começa com: ${{ secrets.PERSONAL_TOKEN }}" | cut -c1-8
 
       - name: Commit & Push
         env:
@@ -33,5 +33,5 @@ jobs:
           git config --global user.name "github-actions"
           git add output/github-contribution-grid-snake.svg
           git commit -m "Generated snake contribution grid" || echo "No changes to commit"
-          git remote set-url origin https://clodomilson-silva:${PERSONAL_TOKEN}@github.com/clodomilson-silva/clodomilson-silva.git
+          git remote set-url origin "https://clodomilson-silva:${PERSONAL_TOKEN}@github.com/clodomilson-silva/clodomilson-silva.git"
           git push origin HEAD:main
