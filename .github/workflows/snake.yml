@@ -2,33 +2,34 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite (UTC)
   push:
     branches:
       - main
-  workflow_dispatch:
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Gerar animação Snake
         uses: Platane/snk@v3
         with:
           github_user_name: clodomilson-silva
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Commit & Push
+      - name: Commit e push para a branch main
         env:
           PERSONAL_TOKEN: ${{ secrets.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 }}
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions"
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add output/github-contribution-grid-snake.svg
-          git commit -m "Generated snake contribution grid" || echo "No changes to commit"
-          git remote set-url origin "https://clodomilson-silva:${PERSONAL_TOKEN}@github.com/clodomilson-silva/clodomilson-silva.git"
-          git push origin HEAD:main
+          git commit -m "Atualiza animação Snake Contribution" || echo "Nada para commitar"
+          git remote set-url origin https://clodomilson-silva:${PERSONAL_TOKEN}@github.com/clodomilson-silva/clodomilson-silva.git
+          git push origin main
