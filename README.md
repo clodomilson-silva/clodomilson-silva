@@ -67,7 +67,7 @@
 ### 🌐 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/clodomilson-silva)
-- 🌍 Portfólio: *em breve* ⏳
+- 🌍 Portfólio: https://clodomilson-portfolio.vercel.app/
 - 📧 Email: clodomilsonanjos.eng@outlook.com
 
 ---
