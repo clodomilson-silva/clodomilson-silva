@@ -22,12 +22,9 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Debug token (opcional)
-        run: echo "Token começa com: ${{ secrets.PERSONAL_TOKEN }}" | cut -c1-8
-
       - name: Commit & Push
         env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.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 }}
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions"
