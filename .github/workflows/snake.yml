@@ -1,0 +1,30 @@
+name: Generate Snake Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # todo dia à meia-noite UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: clodomilson-silva
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "Generated snake contribution grid"
+          add: "output/github-contribution-grid-snake.svg"
