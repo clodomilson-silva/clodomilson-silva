@@ -17,8 +17,7 @@
 - 👨‍💻 Engenheiro de Software/Instrutor no **Senac Maranhão**
 - 🎓 Graduado em Engenharia de Software pela **Faculdade Alphaville**
 - 🧠 Especialista em sistemas escaláveis com foco em performance e boas práticas
-- 🚀 Stack: **React**, **Next.js**, **Flutter**, **Django**, **Node.js**
-- 🤖 Estudando IA aplicada a CRM e Atendimento Inteligente
+- 🚀 Stack: **React**, **Next.js**, **React Native**, **Django**, **Node.js**
 
 ---
 
@@ -27,7 +26,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
