@@ -14,7 +14,7 @@
 
 ### 🎯 Sobre mim
 
-- 👨‍💻 Engenheiro de Software/Instrutor no **Senac Maranhão**
+- 👨‍💻 Engenheiro de Software/Desenvolvedor FullStack
 - 🎓 Graduado em Engenharia de Software pela **Faculdade Alphaville**
 - 🧠 Especialista em sistemas escaláveis com foco em performance e boas práticas
 - 🚀 Stack: **React**, **Next.js**, **React Native**, **Django**, **Node.js**
