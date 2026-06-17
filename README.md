@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Clodomilson Silva</h1>
-<h3 align="center">💻 Engenheiro de Software | Full Stack & Mobile Developer</h3>
+<h3 align="center">💻 Engenheiro de Software | Desenvolvedor Full Stack & Mobile</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/clodomilson-silva" target="_blank">
@@ -14,25 +14,30 @@
 
 ### 🎯 Sobre mim
 
-- 👨‍💻 Engenheiro de Software/Desenvolvedor FullStack
-- 🎓 Graduado em Engenharia de Software pela **Faculdade Alphaville**
-- 🧠 Especialista em sistemas escaláveis com foco em performance e boas práticas
-- 🚀 Stack: **React**, **Next.js**, **React Native**, **Django**, **Node.js**
+* 👨‍💻 Engenheiro de Software e Desenvolvedor Full Stack
+* 🎓 Graduado em Engenharia de Software pela **Faculdade Alphaville**
+* 🏗️ Especializado no desenvolvimento de sistemas escaláveis, performáticos e de fácil manutenção
+* 🔗 Experiência em APIs REST, integração entre sistemas e arquitetura de software
+* 🤖 Interesse e atuação em soluções utilizando Inteligência Artificial e automação
+* 🚀 Stack: **Java**, **Node.js**, **React**, **Vue.js** e **React Native**
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 </p>
 
 ---
@@ -64,9 +69,9 @@
 
 ### 🌐 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/clodomilson-silva)
-- 🌍 Portfólio: https://clodomilson-portfolio.vercel.app/
-- 📧 Email: clodomilsonanjos.eng@outlook.com
+* 💼 LinkedIn: https://www.linkedin.com/in/clodomilson-silva
+* 🌍 Portfólio: https://clodomilson-portfolio.vercel.app/
+* 📧 Email: [clodomilsonanjos.eng@outlook.com](mailto:clodomilsonanjos.eng@outlook.com)
 
 ---
 
